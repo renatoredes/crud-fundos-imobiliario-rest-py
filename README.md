@@ -18,9 +18,11 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) para gerenciar informa
 ## Como Usar configurações de Ambiente
 
 1. **Instalação de Dependências:**
-   ``` pip install Flask Flask-SQLAlchemy ```
+   ```pip install Flask```
+   ```pip install Flask-SQLAlchemy``` 
 
-2. Execute o Aplicativo:
+
+3. Execute o Aplicativo:
 ```python app.py```
 O servidor será iniciado em http://127.0.0.1:5000/
 
