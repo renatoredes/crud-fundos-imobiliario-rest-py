@@ -54,7 +54,4 @@ projeto/
 ### Demostração Postman
 https://github.com/renatoredes/crud-fundos-imobiliario-rest-py/assets/18330802/1868daf7-740b-4d37-b863-7244aafc3140
 
-### Refatpração 
-
-https://github.com/renatoredes/crud-fundos-imobiliario-rest-py/assets/18330802/1b7d7d1a-3246-4adf-9da9-5a1841555d58
 
